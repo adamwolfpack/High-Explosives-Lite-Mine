@@ -3,9 +3,9 @@
     "name": "Guided Missile",
     "unitType": "Missile",
     "movement": 1,
-    "strength": 100,
-    "rangedStrength": 100,
-    "range": 8,
+    "strength": 130,
+    "rangedStrength": 130,
+    "range": 14,
     "cost": 150,
     "requiredTech": "Advanced Ballistics",
     "uniques": [
